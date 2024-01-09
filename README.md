@@ -19,6 +19,6 @@ Hello, my name is Guowei Shang and I am a master's student at [XJTU](https://www
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zion1123&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zion1123&show_icons=true&count_private=true&hide=stars)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zion1123)](https://github.com/anuraghazra/github-readme-stats)
