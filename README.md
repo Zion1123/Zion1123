@@ -20,3 +20,5 @@ Hello, my name is Guowei Shang and I am a master's student at [XJTU](https://www
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zion1123)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zion1123)](https://github.com/anuraghazra/github-readme-stats)
