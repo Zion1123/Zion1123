@@ -1,7 +1,5 @@
 <h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  I'm Guowei Shang, Master's degree :computer:<br> My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
+Hello, my name is Rashmi Jadhav and I am a master's student at [Oregon State University](https://eecs.oregonstate.edu/) majoring in Computer Science. I am a full-stack software developer with three years of experience working as a Software Engineer at [eQ Technologic India Pvt. Ltd.](https://www.1eq.com/) My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
   <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - 🍻 Junior at 🇨🇳 [XJTU](https://www.xjtu.edu.cn/), _BSc in Mechanical Engineering_
