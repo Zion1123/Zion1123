@@ -5,7 +5,7 @@ Hello, my name is Guowei Shang and I am a master's student at [XJTU](https://www
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - 🍻 Junior at 🇨🇳 [XJTU](https://www.xjtu.edu.cn/), _BSc in Mechanical Engineering_
-- ⚡ C++ / Python.
+- ⚡ C++ / Python / matlab.
 - 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
