@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Zion! 😁
 
-Hello, my name is Guowei Shang and I am a master's student at [XJTU](https://www.xjtu.edu.cn/) majoring in Mechanical Engineering. I am a 3D Vision Algorithm Engineer with with two internship experiences at [alibaba](https://www.alibabagroup.com/) and .My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
+Hello, my name is Guowei Shang and I am a master's student at [XJTU](https://www.xjtu.edu.cn/) majoring in Mechanical Engineering. I am a 3D Vision Algorithm Engineer with with two internship experiences at [alibaba](https://www.alibabagroup.com/) and [Orbbec](https://www.orbbec.com.cn/).My technology stack involves C++,python,matlab. 
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
