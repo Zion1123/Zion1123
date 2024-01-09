@@ -8,6 +8,7 @@
 </h2> 
 
 **Languages and Tools:** 
+
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
