@@ -2,7 +2,6 @@
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Guowei Shang, Master's degree :computer:<br> My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
-  <br>
   <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - 🍻 Junior at 🇨🇳 [XJTU](https://www.xjtu.edu.cn/), _BSc in Mechanical Engineering_
