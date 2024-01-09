@@ -27,7 +27,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 🍻 Junior at 🇨🇳 [PKU](https://www.pku.edu.cn), _BSc in Computer Science_
+- 🍻 Junior at 🇨🇳 [XJTU]([https://www.xjtu.edu.cn/]), _BSc in Mechanical Engineering_
 - ⚡ C++ / Python.
 - 🖋 Writer at [sspai](https://sspai.com/u/aw0luepf/posts)
 - ✍️ [Blogger](https://haysc.tech)
