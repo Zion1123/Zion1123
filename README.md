@@ -20,7 +20,7 @@ Hello, my name is Guowei Shang and I am a master's student at [XJTU](https://www
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Zion1123&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Zion1123&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&isFork=true)
 
 <p align="justify">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
