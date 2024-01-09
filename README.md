@@ -20,10 +20,4 @@ Hello, my name is Guowei Shang and I am a master's student at [XJTU](https://www
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
-<div align="center">
-	<img  src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" />
-</div>
-
-<div align="center">
-	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" />
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zion1123)](https://github.com/anuraghazra/github-readme-stats)
