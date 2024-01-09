@@ -15,7 +15,7 @@ Hello, my name is Guowei Shang and I am a master's student at [XJTU](https://www
 
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
-![C++](https://img.shields.io/badge/-C++-black?logo=c&style=social)&nbsp;&nbsp;
+![C++](https://img.shields.io/badge/-C++-black?logo=c++&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
