@@ -23,3 +23,7 @@ Hello, my name is Guowei Shang and I am a master's student at [XJTU](https://www
 <div align="center">
 	<img  src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" />
 </div>
+
+<div align="center">
+	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" />
+</div>
