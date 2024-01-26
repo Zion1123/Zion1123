@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Zion! 😁
 
-Hello, my name is Guowei Shang and I am a master's student at [XJTU](https://www.xjtu.edu.cn/) majoring in Mechanical Engineering. My main research direction is 3D computer vision and I have two internship experiences at [alibaba](https://www.alibabagroup.com/) and [Orbbec](https://www.orbbec.com.cn/)，both of which were related to 3D computer vision.My technology stack involves C++,python,matlab. 
+Hello, I am a master's student at [XJTU](https://www.xjtu.edu.cn/) majoring in Mechanical Engineering. My main research direction is 3D computer vision and I have two internship experiences at [alibaba](https://www.alibabagroup.com/) and [Orbbec](https://www.orbbec.com.cn/)，both of which were related to 3D computer vision.My technology stack involves C++,python,matlab. 
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
